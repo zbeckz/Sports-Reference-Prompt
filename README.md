@@ -14,4 +14,6 @@ SOLUTION DESCRIPTION:
 7. Finally, utilize a Pandas dataframe to neatly print a table containing the data in the completed matrix
 
 HOW TO RUN CODE:
-Open terminal, navigate to the directory containing the table.py file, and run "python table.py". The expected output that should be printed to the terminal is shown in the "output.png" file in this repository
+1. Make sure you have the requirements for this project (see above)
+2. Open terminal, navigate to the directory containing the table.py file, and run "python table.py" 
+3. The expected output that should be printed to the terminal is shown in the "output.png" file in this repository
