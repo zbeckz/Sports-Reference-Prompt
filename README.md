@@ -12,3 +12,6 @@ SOLUTION DESCRIPTION:
 4. Within each row, first put a '--' in the diagonal of the array (where row = column) because teams do not play against themselves. 
 5. Then, move loop from left to right within the row starting at column = row + 1. Retrieve the appropriate value from the dictionary (using the keys from the dictionary and the loop counters for row and column) and place into the current position of the matrix. Do this for the mirror position (switch row and column) as well. No need to loop through the lower left portion of the matrix because the data can be gathered from the same info needed to fill in the top right portion of the matrix
 7. Finally, utilize a Pandas dataframe to neatly print a table containing the data in the completed matrix
+
+HOW TO RUN CODE:
+Open terminal, navigate to the directory containing the table.py file, and run "python table.py". The expected output that should be printed to the terminal is shown in the "output.png" file in this repository
